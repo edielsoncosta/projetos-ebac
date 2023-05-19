@@ -1,0 +1,43 @@
+body{
+    padding: 0;
+    margin: 0;
+    margin-top: 200px;
+    background-color: rgb(75, 75, 223);
+    font-family: 'robot', sans-serif;
+    text-align: center;
+}
+
+form input{
+    margin: 4px;
+    font-family: 'robot', sans-serif;
+}
+
+form button{
+    margin-top: 4px;
+    background-color: blue;
+}
+
+h1{
+    color: blue;
+    margin-left: 20px;
+    font-family: 'bungee', cursive;
+    font-weight: normal;
+}
+
+form{
+    border: solid 1px;
+    width: 200px;
+    height: 150px;
+    padding-top: 20px;
+    text-align: center;
+    background-color: blue;
+    font-family: 'robot', sans-serif;
+    border-color: blue;
+}
+
+
+#center{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
