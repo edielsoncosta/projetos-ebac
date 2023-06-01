@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(175, 63, 63);
+    margin-top: 200px;
+}
+
+header{
+    margin-bottom: 20px;
+}
+
+header h1{
+    text-align: center;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form input,
+button{
+    margin-top: 25px;
+}
+
+button{
+    width: 120px;
+    height: 40px;
+    cursor: pointer;
+}
+
+input{
+    width: 220px;
+    height: 40px;
+}
+
+.tabela{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#lista{
+
+}
+
+button:hover{
+    color: green;
+    background-color: aliceblue;
+    border: none 0px;
+}
